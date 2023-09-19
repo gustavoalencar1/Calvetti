@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OrdenacaoVetor {
+public class Ex60 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
