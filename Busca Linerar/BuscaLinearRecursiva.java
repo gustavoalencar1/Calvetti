@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class BuscaLinearRecusriva {
+public class BuscaLinearRecursiva {
     public static void main(String args[]) {
 
         int iVetor[] = new int[] {5, 3, 2, 4, 6, 1};
